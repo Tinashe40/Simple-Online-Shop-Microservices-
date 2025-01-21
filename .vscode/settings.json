@@ -2,10 +2,13 @@
   "cSpell.words": [
     "eurekaserver",
     "jdbc",
+    "logindb",
     "orderservice",
     "productdb",
     "productservice",
     "projectlombok",
     "springframework"
-  ]
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
 }

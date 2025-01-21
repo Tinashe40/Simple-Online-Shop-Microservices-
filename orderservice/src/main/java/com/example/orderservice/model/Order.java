@@ -15,4 +15,12 @@ public class Order {
     private Long id;
     private Long productId;
     private int quantity=0;
+
+    public Long getProductId() {
+        return productId;
+    }
+
+    public void setProductId(Long productId) {
+        this.productId = productId;
+    }
 }
